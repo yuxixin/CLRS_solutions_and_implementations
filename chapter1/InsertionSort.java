@@ -1,6 +1,6 @@
 public class InsertionSort{
 	public static void main(String[] arg){
-		int input[] = {2,34,546,1234,546,7,8,546,456,324,76,7657,324};		
+		int input[] = {2,34,546,1234,546,7,8,546,456,324,76,7657,324};	//sample input 	
 		int j, key, i;
 		for( j = 2; j<input.length; j++){
 			key = input[j];
